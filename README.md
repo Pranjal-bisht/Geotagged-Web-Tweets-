@@ -1,4 +1,4 @@
-# Geotagged-Web-Tweets
+# UG project : GIS based Events detection using geo-tagged tweets web scrapping and clustering using machine learning techniques.
 
 # Technologies used:
 <div align="center">
@@ -15,9 +15,16 @@
  
 # Web Scrapper:
 
-
-
-
+Task : Create a Twitter Developer account and get consumer secret key and access token.
+Create a Python bot for Twitter web data scraping for given hashtag using Tweepy and Pandas module. Clean the data acquired for geo-tagged locations and use the cleaned dataset for clustering.
 
 
 # Machine learning:
+
+Task : Unsupervised Clustering machine learning algorithms can be applied to Geospatial data in order to solve a problem of events detection from the datasets generated from web scrapping geo-tagged tweets from twitter. the latitude and longitude of the users are used to display in the map which will be created with folium library in python, a really convenient package that allows us to plot interactive maps without needing to load a shapefile.
+
+# Deployment:
+
+Task : Deployment of an ML model simply means the integration of the model into an existing production environment which can take in an input and return an output. We will Deploy the model using the Flask web framework. Create a website that will allow sending data, and receive a prediction as a response.
+
+
