@@ -18,13 +18,27 @@
 Task : Create a Twitter Developer account and get consumer secret key and access token.
 Create a Python bot for Twitter web data scraping for given hashtag using Tweepy and Pandas module. Clean the data acquired for geo-tagged locations and use the cleaned dataset for clustering.
 
+# Demo:
+
+
+https://user-images.githubusercontent.com/58468853/143482759-73e395e3-280f-4c8d-9da2-5db5a03dea2b.mp4
+
 
 # Machine learning:
 
 Task : Unsupervised Clustering machine learning algorithms can be applied to Geospatial data in order to solve a problem of events detection from the datasets generated from web scrapping geo-tagged tweets from twitter. the latitude and longitude of the users are used to display in the map which will be created with folium library in python, a really convenient package that allows us to plot interactive maps without needing to load a shapefile.
 
+# Demo:
+
+https://user-images.githubusercontent.com/58468853/143483105-a41a2f86-0584-46a2-8314-b294f6ba5542.mp4
+
+
+
 # Deployment:
 
 Task : Deployment of an ML model simply means the integration of the model into an existing production environment which can take in an input and return an output. We will Deploy the model using the Flask web framework. Create a website that will allow sending data, and receive a prediction as a response.
+
+
+
 
 
