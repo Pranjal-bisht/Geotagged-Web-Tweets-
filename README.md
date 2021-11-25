@@ -1,6 +1,13 @@
 # Geotagged-Web-Tweets
 
+# Web Scrapper:
 
+
+
+
+
+
+# Machine learning:
 # Technologies used:
 <div align="center">
 <code><img height="100" src="https://user-images.githubusercontent.com/61589143/97068916-041bc900-15f6-11eb-94ce-fbeef5d50f02.png" /></code>
