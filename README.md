@@ -1,13 +1,5 @@
 # Geotagged-Web-Tweets
 
-# Web Scrapper:
-
-
-
-
-
-
-# Machine learning:
 # Technologies used:
 <div align="center">
 <code><img height="100" src="https://user-images.githubusercontent.com/61589143/97068916-041bc900-15f6-11eb-94ce-fbeef5d50f02.png" /></code>
@@ -18,3 +10,14 @@
 <code><img height="80" src="https://avatars.githubusercontent.com/u/21206976?s=280&v=4" /></code>
 <code><img height="80" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/a1cecb3cdad8b27da8b7cd1a6622bc900ef79907/687474703a2f2f6661726d332e737461746963666c69636b722e636f6d2f323836302f383735343636313038315f633430653561323134635f6f2e6a7067" /></code>
 <code><img height="80" src="https://www.kdnuggets.com/wp-content/uploads/jupyter-logo.jpg" /></code>
+  
+  
+  
+# Web Scrapper:
+
+
+
+
+
+
+# Machine learning:
